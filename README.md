@@ -1,5 +1,4 @@
-﻿## HTML/CSS used in (Linkdn-clone)  code breakdown of syntax
-
+﻿## HTML/CSS used in (Linkdn-clone)  code breakdown and explain
  # DEMO
  ![Capture 222](https://github.com/onovogodwinprosperity/Advance-HTML-CSS-Project-Linkedn-Social-Media--Clone-/assets/104012600/b3932970-47ec-424d-80ef-80bb4c6a57b5)
 
