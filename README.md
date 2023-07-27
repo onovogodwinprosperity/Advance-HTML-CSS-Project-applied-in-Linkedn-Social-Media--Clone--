@@ -101,7 +101,7 @@ The code includes a JavaScript function that handles toggling the profile dropdo
 
 These are the main code structures found in the provided HTML document. The website's appearance and functionality are defined through the combination of HTML, CSS, and JavaScript. The CSS file referenced by the link element is likely responsible for styling the elements on the page, while the JavaScript function adds interactivity to the profile dropdown menu.
 
-# CSS BREACKDWON
+# CSS BREACKDOwN
 *: Applies the following styles to all elements on the page:
 
 margin: 0: Sets the margin to 0 for all elements.
