@@ -3,8 +3,9 @@
  ![Capture 222](https://github.com/onovogodwinprosperity/Advance-HTML-CSS-Project-Linkedn-Social-Media--Clone-/assets/104012600/b3932970-47ec-424d-80ef-80bb4c6a57b5)
 
 # INDEX.HTML BREAKDOWN
+
+### Document Type Declaration:
 ```
-* Document Type Declaration:
 > <!DOCTYPE html> specifies that the document is an HTML5 document.
 >>
 HTML Element:
@@ -58,7 +59,7 @@ These are the main code structures found in the provided HTML document. The webs
 ![21233](https://github.com/onovogodwinprosperity/Advance-HTML-CSS-Project-Linkedn-Social-Media--Clone-/assets/104012600/927e6437-9458-4f2a-bc71-279ab0798ee4)
 
 
-Document Type Declaration:
+### Document Type Declaration:
 ```
 <!DOCTYPE html> specifies that the document is an HTML5 document.
 
