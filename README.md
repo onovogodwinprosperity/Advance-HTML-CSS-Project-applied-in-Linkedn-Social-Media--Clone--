@@ -3,12 +3,12 @@
  ![Capture 222](https://github.com/onovogodwinprosperity/Advance-HTML-CSS-Project-Linkedn-Social-Media--Clone-/assets/104012600/b3932970-47ec-424d-80ef-80bb4c6a57b5)
 
 # INDEX.HTML BREAKDOWN
-
-Document Type Declaration:
-<!DOCTYPE html> specifies that the document is an HTML5 document.
-
+```
+* Document Type Declaration:
+> <!DOCTYPE html> specifies that the document is an HTML5 document.
+>>
 HTML Element:
-<html lang="en"> represents the root element of the HTML document. The lang attribute specifies the language of the document.
+> <html lang="en"> represents the root element of the HTML document. The lang attribute specifies the language of the document.
 
 Head Element:
 <head> contains meta-information about the document, such as character encoding, viewport settings, title, and linked stylesheets.
@@ -49,7 +49,7 @@ JavaScript:
 The code includes two JavaScript functions that handle toggling the profile dropdown menu and showing/hiding activity links.
 
 These are the main code structures found in the provided HTML document. The website's appearance and functionality are defined through the combination of HTML, CSS, and JavaScript. The CSS file referenced by the link element is likely responsible for styling the elements on the page, while JavaScript functions add interactivity to the dropdown menu and the show/hide behavior of the activity links.
-
+```
 # PROFILE.HTML BREACKDOWN
 
 ## DEMO 
@@ -59,6 +59,7 @@ These are the main code structures found in the provided HTML document. The webs
 
 
 Document Type Declaration:
+```
 <!DOCTYPE html> specifies that the document is an HTML5 document.
 
 HTML Element:
@@ -100,10 +101,11 @@ JavaScript:
 The code includes a JavaScript function that handles toggling the profile dropdown menu.
 
 These are the main code structures found in the provided HTML document. The website's appearance and functionality are defined through the combination of HTML, CSS, and JavaScript. The CSS file referenced by the link element is likely responsible for styling the elements on the page, while the JavaScript function adds interactivity to the profile dropdown menu.
+```
 
 # CSS BREACKDOwN
 *: Applies the following styles to all elements on the page:
-
+```
 margin: 0: Sets the margin to 0 for all elements.
 padding: 0: Sets the padding to 0 for all elements.
 font-family: 'Poppins', sans-serif;: Sets the font family to 'Poppins' and uses a fallback sans-serif font for all elements.
@@ -130,5 +132,7 @@ Sets the background color and width of the search box.
 Adds padding to the search box to create spacing between the icon and input field.
 Media Query (@media): The styles within the media query are applied only when the screen width is 600 pixels or less (small screen sizes):
 
-Adjusts the layout for smaller screens, such as collapsing the search box and removing some elements from the navigation bar to optimize for mobile devices.
+Adjusts the layout for smaller screens, such as collapsing the search box and removing some elements
+from the navigation bar to optimize for mobile devices.
 These CSS styles contribute to creating a responsive and visually appealing social media website design
+```
