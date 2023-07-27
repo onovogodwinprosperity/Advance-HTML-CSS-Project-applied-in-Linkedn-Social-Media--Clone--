@@ -105,7 +105,7 @@ These are the main code structures found in the provided HTML document. The webs
 ```
 
 # CSS BREACKDOwN
-*: Applies the following styles to all elements on the page:
+### *: Applies the following styles to all elements on the page:
 ```
 margin: 0: Sets the margin to 0 for all elements.
 padding: 0: Sets the padding to 0 for all elements.
