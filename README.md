@@ -136,3 +136,5 @@ Adjusts the layout for smaller screens, such as collapsing the search box and re
 from the navigation bar to optimize for mobile devices.
 These CSS styles contribute to creating a responsive and visually appealing social media website design
 ```
+ ## Best Regards from Prosperity :+1:
+ ### clone and learn from code
